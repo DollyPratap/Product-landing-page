@@ -144,18 +144,8 @@ html{
     text-align: justify;
     padding: 10px;
     border-radius: 15px;
-    /* line-height:20px; */
-    /* background:linear-gradient(to top,rgba(255, 45, 45, 0.581),50%,white 50%);
-    background-size: 100% 200%;
-    transition: all .8s; */
+    
 }
-/* .box:hover{
-    background-position: left bottom;
-    color:white;
-    border: none;
-    box-shadow: 0 0 20px rgba(255, 45, 45);
-
-} */
 .box img{
     width:70px;
     height:70px;
